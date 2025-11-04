@@ -1,6 +1,7 @@
 # 👨‍💻 Yaron Büchler
 
 **`Data Engineer`**
+
 Sou estudante do 3º período de Engenharia de Software com foco crescente em Data Science. Atualmente estou aprofundando meu domínio em Neo4j e modelagem por grafos, e expandindo meu stack para ferramentas de análise, engenharia de dados e visualização (por exemplo, Pandas, scikit-learn, Databricks e Power BI). Tenho experiência em desenvolvimento web (Python, React, JavaScript, HTML e CSS) e conhecimentos em segurança/pentest (Burp Suite, SQLmap e Kali Linux), o que reforça minha abordagem orientada a boas práticas e à robustez dos sistemas. Busco transformar dados em soluções escaláveis e testáveis, entregando resultados que tragam impacto mensurável..
 
 ### 🤖 Linguagens e Tecnologias
